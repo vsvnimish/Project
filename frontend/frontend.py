@@ -31,7 +31,7 @@ transcript_file = st.file_uploader("Upload Call Transcript (TXT)", type=["txt"])
 # Or text area input
 transcript_text = st.text_area("Or paste transcript here")
   
-API_URL = "http://127.0.0.1:8000/extract-fields"  
+API_URL = "https://project-aoqz.onrender.com/extract-fields"  
 if st.button("Submit for Processing"):
     if transcript_file:
         transcript = transcript_file.read().decode("utf-8")
