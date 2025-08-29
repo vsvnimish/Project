@@ -1,0 +1,8 @@
+Customer: I want a fixed mortgage, $200,000.
+Interest 6.0%, 30 years.
+Address: 77 Oak Lane, Buffalo, NY.
+Borrower: Lisa Adams. SSN: 444-55-6666. DOB: 07/07/1990
+Marital: Married, no dependents.
+Phone: (716)555-1212, Email: lisa.adams@email.com
+Employer: Innovatech, Analyst, 3 years. Income: $6,000.
+Housing: Rent 1,100. Liabilities: None.

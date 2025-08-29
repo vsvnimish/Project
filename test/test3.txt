@@ -1,0 +1,71 @@
+Agent: Hello, thank you for calling HomeTrust Mortgage. My name is David. How can I assist you today?
+
+Customer: Hi David, I want to apply for a mortgage loan to buy a new house.
+
+Agent: Sure! What type of mortgage are you interested in?
+
+Customer: I’m looking for a 15-year fixed-rate mortgage.
+
+Agent: Great! And the loan amount?
+
+Customer: Approximately $180,000.
+
+Agent: The interest rate for a 15-year fixed-rate is 5.1%. Does that work for you?
+
+Customer: Yes, that’s fine.
+
+Agent: Can you provide the property address?
+
+Customer: 56 Elmwood Drive, Buffalo, NY 14218.
+
+Agent: Purpose of the loan?
+
+Customer: Purchase, primary residence.
+
+Agent: Your full name, please?
+
+Customer: Michael Johnson.
+
+Agent: Any co-borrower?
+
+Customer: No co-borrower.
+
+Agent: Social Security Number?
+
+Customer: 333-22-1111.
+
+Agent: Date of birth?
+
+Customer: March 3, 1982.
+
+Agent: Marital status?
+
+Customer: Single, no dependents.
+
+Agent: Current address?
+
+Customer: 12 Oak Street, Buffalo, NY 14211. Previous: 99 Pine Avenue, Rochester, NY.
+
+Agent: Phone and email?
+
+Customer: Phone: (716) 555-2345, Email: michael.johnson@email.com
+
+Agent: Employer and position?
+
+Customer: I work at TechCorp Inc, 200 Technology Lane, Buffalo, NY. I’m a Software Developer, 4 years in current role.
+
+Agent: Monthly income?
+
+Customer: $5,500. No other income.
+
+Agent: Current housing expenses or liabilities?
+
+Customer: Rent $900. No other loans.
+
+Agent: Any bankruptcies, foreclosures, or other legal obligations?
+
+Customer: No, none.
+
+Agent: Thank you! I’ll send the application form for your signature.
+
+Customer: Thank you, David!

@@ -1,0 +1,71 @@
+Agent: Hello, thank you for calling HomeSecure Mortgage. My name is Lisa. How can I help you today?
+
+Customer: Hi Lisa, I want to apply for a mortgage loan.
+
+Agent: Sure! What type of mortgage are you interested in?
+
+Customer: I’m looking for a 15-year fixed-rate mortgage.
+
+Agent: Great. And what is the loan amount you are requesting?
+
+Customer: Around $180,000.
+
+Agent: The current interest rate we offer is 5.8%. Does that work for you?
+
+Customer: Yes, that’s fine.
+
+Agent: Can you confirm the property address?
+
+Customer: Yes, 456 Oak Street, Albany, NY 12203.
+
+Agent: What is the purpose of the loan? Purchase or refinance?
+
+Customer: Purchase. I will be living in the house.
+
+Agent: Okay, may I have your full name?
+
+Customer: Michael Johnson.
+
+Agent: Any co-borrower?
+
+Customer: Yes, my spouse, Sarah Johnson.
+
+Agent: Social Security Numbers, please.
+
+Customer: Mine is 111-22-3333 and Sarah’s is 444-55-6666.
+
+Agent: Dates of birth?
+
+Customer: Mine is March 10, 1982, and Sarah’s is July 8, 1984.
+
+Agent: Marital status?
+
+Customer: Married, with 3 dependents.
+
+Agent: Current address?
+
+Customer: 789 Pine Road, Albany, NY 12204. Previously lived at 321 Elm Street, Troy, NY.
+
+Agent: Phone number and email?
+
+Customer: Phone: (518) 555-1234, Email: michael.johnson@email.com
+
+Agent: Employer and position?
+
+Customer: I work at TechCorp Inc., 123 Tech Ave, Albany, NY. I’m a Senior Developer and have been here 8 years.
+
+Agent: Monthly income?
+
+Customer: I earn $7,000 monthly. Sarah earns $4,000 as a teacher. I also receive $300 in dividends monthly.
+
+Agent: Any housing expenses or liabilities?
+
+Customer: We pay $1,500 rent. Car loan $10,000 with $300 monthly.
+
+Agent: Any bankruptcies, foreclosures, or legal obligations?
+
+Customer: None.
+
+Agent: Perfect, that’s all the information needed for now. I will send the application form for signatures.
+
+Customer: Thank you!

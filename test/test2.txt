@@ -1,0 +1,71 @@
+Agent: Hello, thank you for calling PrimeLend Mortgage. My name is Rachel. How can I help you today?
+
+Customer: Hi Rachel, I’m interested in applying for a mortgage loan.
+
+Agent: Absolutely! What type of mortgage are you considering?
+
+Customer: Adjustable-rate mortgage (ARM).
+
+Agent: Okay, what loan amount are you requesting?
+
+Customer: About $320,000.
+
+Agent: Our current interest rate for ARMs is 4.5%. Is that acceptable?
+
+Customer: Yes, that works.
+
+Agent: Property address?
+
+Customer: 789 Cedar Lane, Buffalo, NY 14222.
+
+Agent: Purpose of the loan?
+
+Customer: Purchase, primary residence.
+
+Agent: Your full name, please?
+
+Customer: Laura Thompson.
+
+Agent: Any co-borrower?
+
+Customer: Yes, my husband, Peter Thompson.
+
+Agent: Social Security Numbers?
+
+Customer: Mine is 222-33-4444, Peter’s is 555-66-7777.
+
+Agent: Date of birth?
+
+Customer: Mine is May 20, 1988, Peter’s is September 15, 1985.
+
+Agent: Marital status?
+
+Customer: Married, 1 dependent.
+
+Agent: Current address?
+
+Customer: 123 Birch Street, Buffalo, NY 14220. Previous: 456 Maple Road, Rochester, NY.
+
+Agent: Phone and email?
+
+Customer: Phone: (716) 555-6789, Email: laura.thompson@email.com
+
+Agent: Employer and position?
+
+Customer: I work at FinTech Solutions, 101 Finance Ave, Buffalo, NY. I’m a Project Manager, 5 years in current role.
+
+Agent: Monthly income?
+
+Customer: I earn $6,200. Peter earns $4,000. Additional income: $200 in dividends.
+
+Agent: Current housing expenses or liabilities?
+
+Customer: Rent $1,000, car loan $15,000 with $400 monthly.
+
+Agent: Any bankruptcies, foreclosures, or other legal obligations?
+
+Customer: No, none.
+
+Agent: Great! That’s all the information needed for now. I’ll send the application for signatures.
+
+Customer: Thank you very much!
